@@ -1,0 +1,36 @@
+2016-08-02 13:06:20
+Moorestown Test House Point A
+36dB
+2016-08-02 13:06:21
+Moorestown Test House Point A
+34dB
+2016-08-02 13:06:22
+Moorestown Test House Point A
+37dB
+2016-08-02 13:06:23
+Moorestown Test House Point A
+40dB
+2016-08-02 13:06:24
+Moorestown Test House Point A
+25dB
+2016-08-02 13:06:25
+Moorestown Test House Point A
+65dB
+2016-08-02 13:06:20
+Moorestown Test House Point B
+36dB
+2016-08-02 13:06:21
+Moorestown Test House Point B
+34dB
+2016-08-02 13:06:22
+Moorestown Test House Point B
+37dB
+2016-08-02 13:06:23
+Moorestown Test House Point B
+40dB
+2016-08-02 13:06:24
+Moorestown Test House Point B
+25dB
+2016-08-02 13:06:25
+Moorestown Test House Point B
+65dB
